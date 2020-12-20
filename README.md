@@ -7,8 +7,11 @@ Have something to add to this list? [Suggest an edit on GitHub.](https://github.
 
 ## Desktop Browsers
 
+### Firefox
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) -- Also a great ad blocker in general
+
 ### Google Chrome
-- [uBlock Origin Chrome extension](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) -- Also a great ad blocker in general
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) -- Also a great ad blocker in general
 
 ## iOS (Jailbroken)
 

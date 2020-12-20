@@ -13,4 +13,6 @@ Have something to add to this list? [Suggest an edit on GitHub.](https://github.
 ## iOS (Jailbroken)
 
 ### YouTube App (Version 15.49.4)
-- [YouTopia](https://www.dropbox.com/s/suzrnfhilefp8vc/com.sinfool.youtopia_0.0.2_iphoneos-arm.deb?dl=0) ([Reddit thread](https://www.reddit.com/r/jailbreak/comments/jhe0g7)) -- Not hosted on a repo, so install the deb directly with [Filza](https://www.tigisoftware.com/default/?page_id=78). To downgrade your YouTube app version, use AppStore++ from the repo [https://cokepokes.github.io](https://cokepokes.github.io).
+- [YouTopia](https://www.dropbox.com/s/suzrnfhilefp8vc/com.sinfool.youtopia_0.0.2_iphoneos-arm.deb?dl=0) ([Reddit thread](https://www.reddit.com/r/jailbreak/comments/jhe0g7)) -- Not hosted on a repo, so install the deb directly with [Filza](https://www.tigisoftware.com/default/?page_id=78).
+
+To install an older version of the YouTube app, use AppStore++ from the repo [https://cokepokes.github.io](https://cokepokes.github.io).

@@ -19,3 +19,8 @@ Have something to add to this list? [Suggest an edit on GitHub.](https://github.
 - [YouTopia](https://www.dropbox.com/s/suzrnfhilefp8vc/com.sinfool.youtopia_0.0.2_iphoneos-arm.deb?dl=0) ([Reddit thread](https://www.reddit.com/r/jailbreak/comments/jhe0g7)) -- Not hosted on a repo, so install the deb directly with [Filza](https://www.tigisoftware.com/default/?page_id=78).
 
 To install an older version of the YouTube app, use AppStore++ from the repo [https://cokepokes.github.io](https://cokepokes.github.io).
+
+### YouTube Music App (Version 3.79.3)
+- YouTube Music Reborn -- Repo: [https://burrito.software/sarah/repojb](https://burrito.software/sarah/repojb)
+
+To install an older version of the YouTube Music app, use AppStore++ from the repo [https://cokepokes.github.io](https://cokepokes.github.io).

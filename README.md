@@ -8,11 +8,11 @@ Have something to add to this list? [Suggest an edit on GitHub.](https://github.
 - [Desktop Browsers](#desktop-browsers)
   - [Firefox](#firefox)
   - [Google Chrome](#google-chrome)
+- [Android](#android)
+  - [YouTube App](#youtube-app)
 - [iOS (Jailbroken)](#ios-jailbroken)
   - [YouTube App](#youtube-app-version-15494)
   - [YouTube Music App](#youtube-music-app-version-3793)
-- [Android](#android)
-  - [YouTube App](#youtube-app)
 
 ## Desktop Browsers
 
@@ -21,6 +21,11 @@ Have something to add to this list? [Suggest an edit on GitHub.](https://github.
 
 ### Google Chrome
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) -- Also a great ad blocker in general
+
+## Android
+
+### YouTube App
+- [YouTube Vanced](https://vancedapp.com) -- Haven't tested it myself, but I've heard from multiple people that it works
 
 ## iOS (Jailbroken)
 
@@ -33,8 +38,3 @@ To install an older version of the YouTube app, use AppStore++ from the repo [ht
 - YouTube Music Reborn -- Repo: [https://burrito.software/sarah/repojb](https://burrito.software/sarah/repojb)
 
 To install an older version of the YouTube Music app, use AppStore++ from the repo [https://cokepokes.github.io](https://cokepokes.github.io).
-
-## Android
-
-### YouTube App
-- [YouTube Vanced](https://vancedapp.com) -- Haven't tested it myself, but I've heard from multiple people that it works

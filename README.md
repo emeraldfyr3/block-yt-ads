@@ -1,5 +1,5 @@
 # How to Block YouTube Ads
-*Updated Dec 20, 2020*
+*Updated Dec 24, 2020*
 
 As of Nov 18 2020, YouTube puts ads on videos without the uploader enabling them. That's not unreasonable since it's a free platform, but it's also fair game for its users to block ads. I've never put any on [my own channel](https://youtube.com/c/emeraldfyr3), and I want to keep it that way as much as possible. Here are the best ways I've found to block YouTube ads on different devices.
 
@@ -24,3 +24,8 @@ To install an older version of the YouTube app, use AppStore++ from the repo [ht
 - YouTube Music Reborn -- Repo: [https://burrito.software/sarah/repojb](https://burrito.software/sarah/repojb)
 
 To install an older version of the YouTube Music app, use AppStore++ from the repo [https://cokepokes.github.io](https://cokepokes.github.io).
+
+## Android
+
+### YouTube App
+- [YouTube Vanced](https://vancedapp.com) -- Haven't tested it myself, but I've heard from multiple people that it works

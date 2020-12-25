@@ -5,6 +5,15 @@ As of Nov 18 2020, YouTube puts ads on videos without the uploader enabling them
 
 Have something to add to this list? [Suggest an edit on GitHub.](https://github.com/emeraldfyr3/block-yt-ads)
 
+- [Desktop Browsers](#desktop-browsers)
+  - [Firefox](#firefox)
+  - [Google Chrome](#google-chrome)
+- [iOS (Jailbroken)](#ios-jailbroken)
+  - [YouTube App](#youtube-app-version-15494)
+  - [YouTube Music App](#youtube-music-app-version-3793)
+- [Android](#android)
+  - [YouTube App](#youtube-app)
+
 ## Desktop Browsers
 
 ### Firefox
